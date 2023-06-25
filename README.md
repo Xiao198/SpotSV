@@ -14,13 +14,13 @@ time
 signal
 shutil
 
-### To Start with:
+### 进入src文件夹
 cd SpotSV/src
 
-### to get the help tips
+### 运行提示命令
 python spotsv.py valid -h
 
-### to valid SV
+### 根据提示命令输入文件即可运行
 usage: spotsv.py valid [-h] -s SV_INPUT -o OUT_PATH -r REF_PATH -b BAM_INPUT [-t THREADS] [-p] --data_type {CCS,ONT,CLR}
 
 optional arguments:
