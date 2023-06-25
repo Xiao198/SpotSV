@@ -1,4 +1,19 @@
 # SpotSV：a SV Validation Tool
+### 运行环境
+Linux
+
+### 所需依赖包
+python3
+pysam
+bcftools
+matplotlib
+os
+math
+random
+time
+signal
+shutil
+
 ### To Start with:
 cd SpotSV/src
 
